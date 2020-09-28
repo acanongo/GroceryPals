@@ -10,3 +10,7 @@ gooogle Getting started with android Studio and google maps
 https://developers.google.com/maps/documentation/android-sdk/start
 
 
+locations requests for users
+https://developer.android.com/training/location/permissions
+
+
