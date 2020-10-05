@@ -17,3 +17,8 @@ locations requests for users
 https://developer.android.com/training/location/permissions
 
 
+datbases:
+https://www.tutorialspoint.com/how-to-use-a-simple-sqlite-database-in-kotlin-android
+
+
+
