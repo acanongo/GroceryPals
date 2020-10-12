@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4702dfd96638bcae930c3dd0d4a45c50\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a3df65f412896efd49f19d31152d686\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\1f3e4ecff88b61b2483d97f9aff2ee65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\aeaa41d21bccbc71869b44e151af36ee\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-building-v7:0.5.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-plugin-building-v7-0.5.0.aar\5420b31d2972c34c234c70b772621473\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\73d12f5b10486e4868efebee9e92da9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\10042d01420436642abda1c1aec2ca4d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f91f2dffcb6b554e207a67620f04c68c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\e27955748e2667e0e098dda838ce75b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\8134aba309edc404f3f52f321a6ea544\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c75439ed21958c9d737c3b37b1cded74\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\562435f550ad43fdadd5f1865ee19fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\688a1799179e16dbb99e392ee9264289\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bad9c1bb46dc6bc50a1df9a687d42a3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f035ae79c03a6afb7f20de7e3d08c6eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\429f9c633713b10529466609d59bf9a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e9021f76097b660728d4c1210bc7c378\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\361507f09427c1301fedbafe2594a9f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b956d4c44c1cb5eeeda9e3d94664ba88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d6e288e39e687c7a0a2c5be9cd188708\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-gestures-0.4.2.aar\09a26e949c498d5d491b2c88a52feb47\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\52de9b5a73952795e0f8474eda06ec19\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3a1e13f7cac7b8a1cc0bf15fc950db4f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dc23adf8cd2a5f85a831a7113bf5fec4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\95adead222914f7ccb3063b9d8d47000\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\78aa285abe51441123bb6a7ea83451fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\cf3406434b844418efb789da027c16b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\af05d4fa07bf6a2bc9fbb549b9ecf144\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b900eb225e5c6e3252efeeb51393f28a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\112b576636fc36c0cc34765da1b3ca9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c2160ff9d4a9a451430f8c9d08a4c437\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\55490b83b828b70359a76cf2dd93dccb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5f3359b052dbb7fc821f06af0e202af1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-accounts-0.2.0.aar\ab95b67ea9b58bde4cb71596562fe16b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\1c1a2ec7012992d80e5f4985f9229a00\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:5:5-78
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4702dfd96638bcae930c3dd0d4a45c50\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4702dfd96638bcae930c3dd0d4a45c50\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\aeaa41d21bccbc71869b44e151af36ee\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\aeaa41d21bccbc71869b44e151af36ee\AndroidManifest.xml:9:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:18:5-28:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:18:5-28:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\52de9b5a73952795e0f8474eda06ec19\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\52de9b5a73952795e0f8474eda06ec19\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3a1e13f7cac7b8a1cc0bf15fc950db4f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3a1e13f7cac7b8a1cc0bf15fc950db4f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\1c1a2ec7012992d80e5f4985f9229a00\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\1c1a2ec7012992d80e5f4985f9229a00\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\52de9b5a73952795e0f8474eda06ec19\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:11:9-47
+	android:roundIcon
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:14:9-45
+activity#com.mapbox.storelocator.activity.MapActivity
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:15:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4702dfd96638bcae930c3dd0d4a45c50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\4702dfd96638bcae930c3dd0d4a45c50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a3df65f412896efd49f19d31152d686\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a3df65f412896efd49f19d31152d686\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\1f3e4ecff88b61b2483d97f9aff2ee65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\1f3e4ecff88b61b2483d97f9aff2ee65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\aeaa41d21bccbc71869b44e151af36ee\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\aeaa41d21bccbc71869b44e151af36ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-building-v7:0.5.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-plugin-building-v7-0.5.0.aar\5420b31d2972c34c234c70b772621473\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-building-v7:0.5.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-plugin-building-v7-0.5.0.aar\5420b31d2972c34c234c70b772621473\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\73d12f5b10486e4868efebee9e92da9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\73d12f5b10486e4868efebee9e92da9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\10042d01420436642abda1c1aec2ca4d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\10042d01420436642abda1c1aec2ca4d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f91f2dffcb6b554e207a67620f04c68c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f91f2dffcb6b554e207a67620f04c68c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\e27955748e2667e0e098dda838ce75b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\e27955748e2667e0e098dda838ce75b9\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\8134aba309edc404f3f52f321a6ea544\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\8134aba309edc404f3f52f321a6ea544\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c75439ed21958c9d737c3b37b1cded74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c75439ed21958c9d737c3b37b1cded74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\562435f550ad43fdadd5f1865ee19fe6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\562435f550ad43fdadd5f1865ee19fe6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\688a1799179e16dbb99e392ee9264289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\688a1799179e16dbb99e392ee9264289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bad9c1bb46dc6bc50a1df9a687d42a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bad9c1bb46dc6bc50a1df9a687d42a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f035ae79c03a6afb7f20de7e3d08c6eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f035ae79c03a6afb7f20de7e3d08c6eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\429f9c633713b10529466609d59bf9a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\429f9c633713b10529466609d59bf9a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e9021f76097b660728d4c1210bc7c378\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\e9021f76097b660728d4c1210bc7c378\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\361507f09427c1301fedbafe2594a9f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\361507f09427c1301fedbafe2594a9f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b956d4c44c1cb5eeeda9e3d94664ba88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b956d4c44c1cb5eeeda9e3d94664ba88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d6e288e39e687c7a0a2c5be9cd188708\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d6e288e39e687c7a0a2c5be9cd188708\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-gestures-0.4.2.aar\09a26e949c498d5d491b2c88a52feb47\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-gestures-0.4.2.aar\09a26e949c498d5d491b2c88a52feb47\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\52de9b5a73952795e0f8474eda06ec19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\52de9b5a73952795e0f8474eda06ec19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3a1e13f7cac7b8a1cc0bf15fc950db4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3a1e13f7cac7b8a1cc0bf15fc950db4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dc23adf8cd2a5f85a831a7113bf5fec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dc23adf8cd2a5f85a831a7113bf5fec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\95adead222914f7ccb3063b9d8d47000\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\95adead222914f7ccb3063b9d8d47000\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\78aa285abe51441123bb6a7ea83451fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\78aa285abe51441123bb6a7ea83451fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\cf3406434b844418efb789da027c16b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\cf3406434b844418efb789da027c16b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\af05d4fa07bf6a2bc9fbb549b9ecf144\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\af05d4fa07bf6a2bc9fbb549b9ecf144\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b900eb225e5c6e3252efeeb51393f28a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b900eb225e5c6e3252efeeb51393f28a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\112b576636fc36c0cc34765da1b3ca9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\112b576636fc36c0cc34765da1b3ca9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c2160ff9d4a9a451430f8c9d08a4c437\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c2160ff9d4a9a451430f8c9d08a4c437\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\55490b83b828b70359a76cf2dd93dccb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\55490b83b828b70359a76cf2dd93dccb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5f3359b052dbb7fc821f06af0e202af1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5f3359b052dbb7fc821f06af0e202af1\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-accounts-0.2.0.aar\ab95b67ea9b58bde4cb71596562fe16b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-accounts-0.2.0.aar\ab95b67ea9b58bde4cb71596562fe16b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\1c1a2ec7012992d80e5f4985f9229a00\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\1c1a2ec7012992d80e5f4985f9229a00\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\3533ef43dd6572feed9eb92170f39bc7\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matts\Desktop\storeLocator\StoreLocator\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:13:9-45
+uses-permission#android.permission.INTERNET
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:15:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.1.0.aar\8d04bb2099bb890f2f22305ea4f0f4d1\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:21:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:20:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:25:9-27:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\matts\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ac010ccae1da88ad925e6c37a515730b\AndroidManifest.xml:26:13-92

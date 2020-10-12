@@ -1,0 +1,16 @@
+*.iml
+StoreLocator/.gradle/
+StoreLocator//local.properties
+StoreLocator/.idea/
+StoreLocator/.idea/tasks.xml
+StoreLocator/.idea/gradle.xml
+StoreLocator/.idea/dictionaries
+StoreLocator/.idea/libraries
+StoreLocator/.idea/caches
+StoreLocator/.DS_Store
+build/
+/captures
+.externalNativeBuild
+StoreLocator/app/src/main/res/values/dev-config.xml
+StoreLocator/local.properties
+StoreLocator/.idea/*
