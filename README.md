@@ -1,5 +1,8 @@
 Using Android studio
 
+This app is building upon the Map box tutorial:
+https://www.mapbox.com/use-cases/store-locator/
+
 pushing to GroveryPals on github, ChicoState/GroceryPAls
 
 user location tutorial:
